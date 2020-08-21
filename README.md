@@ -1,6 +1,6 @@
 # Car-price
 Predictive modelling of price of a car:
-The objective of this project is to build a model that predicts the price of a car given a set of features. Intuitively the target variable is the cost price of cars and this cost depends on various factors, out of which 21 of them are considered in this experiment. These factors serve as the regressor or independent variables and they are mentioned below:
+The objective of this project is to build a model that predicts the price of a car given a set of features. Intuitively the target variable is the cost price of cars and this cost depends on various factors, out of which 21 of them are considered in this experiment. These factors serve as the regressor or independent variables and they are mentioned below.
 Categorical variables:
 1. Make
 2. Fuel type
